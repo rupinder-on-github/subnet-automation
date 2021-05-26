@@ -2,10 +2,6 @@
 commhub-dev-k8s-private-us-east-2-1a
 commhub-dev-k8s-private-us-east-2-2b
 commhub-dev-k8s-private-us-east-2-3c
-[postgres tags ]
-commhub-dev-postgres-private-us-east-2-1a
-commhub-dev-postgres-private-us-east-2-2b
-commhub-dev-postgres-private-us-east-2-3c
 [kafka tags ]
 commhub-dev-kafka-private-us-east-2-1a
 commhub-dev-kafka-private-us-east-2-2b
